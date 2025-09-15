@@ -113,6 +113,7 @@ pnpm run dev
 ```
 
 The app will be available at `http://localhost:3000`.
+Website live at `https://www.bdtextilehub.com/`
 
 ## License
 
