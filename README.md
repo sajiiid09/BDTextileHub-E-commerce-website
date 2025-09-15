@@ -121,4 +121,4 @@ MIT License
 ## Contributors
 
 - Tareq Mahmood (@[Eddie2111](https://github.com/Eddie2111/TradeTideUK))
-- Sajid Mahmud (@[sajiiid09])
+- Sajid Mahmud (@[sajiiid09](https://github.com/sajiiid09/BDTextileHub-E-commerce-website))
